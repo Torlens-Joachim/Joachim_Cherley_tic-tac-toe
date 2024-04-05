@@ -19,7 +19,7 @@ pipeline{
         }
         stage('Deploy / Deliver '){
             steps{
-                echo 'Deploying the project...'
+                echo 'Deploying the project !'
             }
         }
     }
